@@ -22,3 +22,5 @@ This project analyzes global GDP trends using different visualization techniques
 - Dashboard Design
 - Exploratory Data Analysis
 - Business Intelligence
+
+Author : Gouri Nandkumar Salgar
